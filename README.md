@@ -8,7 +8,7 @@ Le premier programme est fait avec 2 ESP8266 chacune comporte 6 LEDs ( 2rouges, 
 Le deuxieme programme permet de faire un feu tricolore avec délai dynamique, lors de l'appui sur un bouton le délai du feu vert devient 15ms au lieu de 30ms, les autres délais restent inchangés:
 
 # Matériel utilisés:
-- 3 Leds : rouge, vert , orange 
+- 3 Leds : rouge, vert , orange ,
 - Esp8266
 - une résistance 1k ohm
 - Des fils de liaison
