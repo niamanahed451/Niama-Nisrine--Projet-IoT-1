@@ -1,13 +1,9 @@
 ## Connection de deux cartes esp8266 avec une seule firebase
 
+Bonjour Monsieur, on a mis a votre disposition deux partie du projet la premiere qu'on a fait , c'est qu'on a arrivé a controler a travers une seule firebase deux carte esp8266 chacune contenant 2 feurouge vous pouvez voir la video démonstratif sur youtube comme vous l'avez demandé je vous ai envoyé une invitation , et le code je vous le met sous forme de deux file sous les noms suivants : ( iotprojettime1 et iotprojettime1inv) et la deuxieme partie faite par nisrine qui consiste a controler un feurouge avec une boutton son code est sous le nom : (Feu dynamique)
 
 
-
-
-
-
-
-## Niama Nahed-Nisrine Latrache--Projet-IoT
+## feu-rouge dynamique avec boutton
 
 Dans ce projet nous avons programmé un carrefour dynamique avec ESP8266 managé à partir d'une page web et par Firebase:
 Le premier programme est fait avec 2 ESP8266 chacune comporte 6 LEDs ( 2rouges, 2 verts , 2 oranges) , Les leds sont affichés sur la page web 
